@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q96wueU244nQcPxedw+Djo+UK5E+kOh6wGLbpWxeHCSS3ErHZUCxFVCpNH3sYOUzEUQPR073HQ70aR9JXXF4FA==",
+  "success": true,
+  "projectFilePath": "/Users/william/projects/Enkata/src/Enkata.Core/Enkata.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/william/.nuget/packages/ardalis.guardclauses/3.3.0/ardalis.guardclauses.3.3.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/ardalis.result/3.1.2/ardalis.result.3.1.2.nupkg.sha512",
+    "/Users/william/.nuget/packages/ardalis.specification/5.2.0/ardalis.specification.5.2.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/autofac/6.3.0/autofac.6.3.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/jetbrains.annotations/2021.2.0/jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

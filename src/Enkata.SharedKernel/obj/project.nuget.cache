@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzc9v0K3fdHRroO+1MlyedDecGiJ8K3HEOqBgbsT/ddvIYT6VvWutOifuzHsV8TTGnqZx5Io0WLHgilAS+NVBg==",
+  "success": true,
+  "projectFilePath": "/Users/william/projects/Enkata/src/Enkata.SharedKernel/Enkata.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "/Users/william/.nuget/packages/ardalis.specification/5.2.0/ardalis.specification.5.2.0.nupkg.sha512",
+    "/Users/william/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

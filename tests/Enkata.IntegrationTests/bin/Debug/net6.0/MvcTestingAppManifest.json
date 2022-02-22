@@ -1,0 +1,7 @@
+{
+  "Enkata.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/william\/projects\/Enkata\/src\/Enkata.Core",
+  "Enkata.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/william\/projects\/Enkata\/src\/Enkata.Infrastructure",
+  "Enkata.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/william\/projects\/Enkata\/src\/Enkata.SharedKernel",
+  "Enkata.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/william\/projects\/Enkata\/tests\/Enkata.UnitTests",
+  "Enkata.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/william\/projects\/Enkata\/src\/Enkata.Web"
+}

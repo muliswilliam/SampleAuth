@@ -1,0 +1,12 @@
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/bin/Debug/net6.0/Enkata.SharedKernel.deps.json
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/bin/Debug/net6.0/Enkata.SharedKernel.dll
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/bin/Debug/net6.0/ref/Enkata.SharedKernel.dll
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/bin/Debug/net6.0/Enkata.SharedKernel.pdb
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.csproj.AssemblyReference.cache
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.AssemblyInfoInputs.cache
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.AssemblyInfo.cs
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.dll
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/ref/Enkata.SharedKernel.dll
+/Users/william/projects/Enkata/src/Enkata.SharedKernel/obj/Debug/net6.0/Enkata.SharedKernel.pdb
